@@ -1,0 +1,12 @@
+Classe|Pacote|586|228|-1216|259|Cafeteira - Versão 1.09 - Java|0|0|
+CafLabel|lblP1|36|56|70|13|Padeiro 1| |0
+CafLabel|lvlP2|35|100|57|13|Padeiro 2| |0
+CafLabel|lblP3|34|148|57|13|Padeiro 3| |0
+CafButton|btnFz1|110|47|100|30|Fazer pão| |4
+CafButton|btnFz2|111|91|100|30|Fazer pão| |4
+CafButton|btnFz3|111|133|100|30|Fazer pão| |4
+CafButton|btnBotijao|446|36|120|30|Trocar botijão| |4
+CafComboBox|menu1|225|47|190|25| | |0
+CafLabel|lblGerente|486|17|57|13|Gerente| |0
+CafComboBox|objeto12|227|94|190|25| | |0
+CafComboBox|objeto13|227|137|190|25| | |0
